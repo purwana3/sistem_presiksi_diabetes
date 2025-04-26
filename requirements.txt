@@ -1,4 +1,6 @@
-flask
+Flask
+numpy
+joblib
 tensorflow
 scikit-learn
-pandas
+

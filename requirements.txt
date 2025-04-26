@@ -1,6 +1,8 @@
 Flask
 numpy
-joblib
-tensorflow
 scikit-learn
+tensorflow
+joblib
+gunicorn
+
 

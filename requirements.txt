@@ -1,8 +1,8 @@
-Flask
-numpy
-scikit-learn
-tensorflow
-joblib
-gunicorn
+Flask==2.2.5
+numpy==1.24.3
+scikit-learn==1.2.2
+tensorflow==2.11.0
+joblib==1.2.0
+
 
 
